@@ -6,9 +6,9 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 
 ## Skills and Technologies
 
-- Web Development: -HTML , CSS , JavaScript (JS) ,Boot Strap, React and MongoDB.
-- Programming Languages: - Java  .
-- Other Tools: - Git , GitHub, Android Studio, Visual Studio Code (VS Code).
+- Web Development: -HTML , CSS , JavaScript (JS) ,Boot Strap, React and MongoDB, Sql.
+- Programming Languages: - Python  .
+- Other Tools: - Git , GitHub, Visual Studio Code (VS Code).
   
 ## Known Languages
 <p align="left">
@@ -29,12 +29,6 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 ### Other Skills
 
 <p align="left">
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="40" height="40"/>
-  </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
   </a>
