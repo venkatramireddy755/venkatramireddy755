@@ -23,7 +23,8 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 </p>
 
 ## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruba1018&theme=vision-friendly-dark&hide_border=false" alt="Kiruba1018" />.
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatramireddy755&theme=vision-friendly-dark&hide_border=false" alt="venkatramireddy755" />
+
 
 ### Other Skills
 
